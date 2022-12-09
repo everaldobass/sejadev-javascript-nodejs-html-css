@@ -9,5 +9,5 @@
 - VS Code
  
 ### Estrutura do Curso
-<img src='./sejadev-javascript-nodejs-html-css/login-002/img/login.png' width='100%'/>
+<img src='./login-002/img/login.png' width='100%'/>
 
